@@ -2,15 +2,14 @@
 
 A new Flutter project.
 
-## Getting Started
+# Flutter 3.16.7 
+# Dart 3.2.4 
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+# DEVICE 
+Pixel 7 Pro API 34
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_20240115_005232](https://github.com/UlquiorraCif/flutter/assets/93728068/32fd0f0c-ff94-4f5d-81a9-fafb786de6f7)
+
+![Screenshot_20240115_005853](https://github.com/UlquiorraCif/flutter/assets/93728068/d26c093b-ae52-4c9b-985e-9bc57dde323f)
